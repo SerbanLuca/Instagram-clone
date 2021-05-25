@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app__headerImage
+{
+  object-fit: contain;
+}
+
+.app
+{
+  background-color: grey;
+}

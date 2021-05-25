@@ -1,0 +1,27 @@
+.post
+{
+    max-width: 100vh;
+}
+
+.post__image
+{
+    width: 100%;
+    object-fit: contain;
+}
+
+.post__text
+{
+    font-weight: normal;
+    padding: 20px;
+}
+
+.post__header
+{
+    display: flex;
+    align-items: center;
+}
+
+.post__avatar
+{
+    margin: 10px;
+}
